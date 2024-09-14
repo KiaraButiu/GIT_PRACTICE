@@ -1,11 +1,8 @@
 package Git1.kublitskyi;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
 import java.util.Scanner;
 
-public class kublitskyiInterview {
+public class kublitskyiCountYZ {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
